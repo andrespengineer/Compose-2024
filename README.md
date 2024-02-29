@@ -18,7 +18,7 @@
 
 ## Features
 
-* Watch live stream content and chat from differents users.
+* Watch live stream content and chat from different users.
 
 * Search and discover new content.
 
