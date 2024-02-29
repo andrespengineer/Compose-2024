@@ -31,3 +31,15 @@
 | **Modularization Diagram** | [Link]() |
 | **Android System Design** | [Google Docs]() |
 
+## Dependency Resolution and Disclaimer
+
+To configure the dependencies between Modules, the [Google NowInAndroid project](https://github.com/android/nowinandroid) was used as a reference. This is not a Fork and some dependencies and device configurations that will not be used in the project were removed, but the [OSS](https://developers.google.com/android/guides/opensource) persists.
+
+This project is simply a playground. 
+
+## License
+
+Apache License (Version 2.0). See more [License](https://github.com/andrespengineer/compose-2024/blob/main/LICENSE)
+
+
+
