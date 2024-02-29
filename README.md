@@ -28,4 +28,6 @@
 
 | Documentation                                              | Link                                                                              |
 |------------------------------------------------------------|-----------------------------------------------------------------------------------|
-| **System Design** | [Google Docs]() |
+| **Modularization Diagram** | [Link]() |
+| **Android System Design** | [Google Docs]() |
+
